@@ -4,9 +4,9 @@
 var itemCounter = 0;
 var fps = 15;
 
-var money = 7.50;
+var money = 0;
 var currentCase = "case2";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 100;
 
 
 
